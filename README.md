@@ -1,2 +1,5 @@
-# shoppinglist
-My first respository in github
+1 # shoppinglist
+2 tomatoes
+3 rice
+4 onion
+5 pepper
